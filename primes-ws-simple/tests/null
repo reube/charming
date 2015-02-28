@@ -1,0 +1,4 @@
+#!/bin/bash
+touch TESTRESULT.log
+exit 0
+
